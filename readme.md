@@ -2,7 +2,7 @@
 openFrameworks addon for face detection.
 Only works on OSX.
 
-![alt screenshot](screenshot.png)
+![alt screenshot](https://raw.github.com/nistetsurooy/ofxOSXFaceDetector/master/screenshot.png)
 
 #Notice
 Currently, position of face's rectangle might be wrong,
